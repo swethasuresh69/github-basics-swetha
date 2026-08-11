@@ -1,4 +1,4 @@
-Hello GitHub!
+Hello GitHub! I am working on feature-conflict.
 This is my first Git and GitHub practice project
 
 I am learning Git branches and pull requests
