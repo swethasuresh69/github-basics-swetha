@@ -1,4 +1,0 @@
-Name:
-Role:
-Programming Language:
-GitHub
