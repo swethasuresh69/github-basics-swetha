@@ -1,5 +1,8 @@
 Hello GitHub! I am working on feature-conflict.
+<<<<<<< HEAD
  
+=======
+>>>>>>> 9b73cb77c3041e1abf5d34b50b397f762fc45c56
 This is my first Git and GitHub practice project
 
 I am learning Git branches and pull requests
